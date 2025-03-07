@@ -3,7 +3,7 @@
 
 # wk14 2.13 serverless vs terraform
 
-<!-- example of 2x2 table using html tags -->
+<!-- 2x2 table using html tags -->
 <table>
   <!-- Header Row -->
   <tr>
